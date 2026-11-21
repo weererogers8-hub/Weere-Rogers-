@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VinTrade</string>
+    <string name="nav_trading">Trading</string>
+    <string name="nav_wines">Wines</string>
+    <string name="nav_gifts">Gifts</string>
+    <string name="nav_prizes">Prizes</string>
+    <string name="live_market_pulse">LIVE MARKET PULSE</string>
+    <string name="cached_market_pulse">CACHED SNAPSHOT</string>
+    <string name="offline_snapshot">MARKET SNAPSHOT</string>
+    <string name="vault_points_label">Vault Points</string>
+    <string name="market_sentiment_title">Trading Signal Pulse</string>
+    <string name="execute_practice_trade">Log Practice Signal</string>
+    <string name="claim_with_points">Redeem Reward</string>
+    <string name="send_as_gift">Prepare Luxury Gift</string>
+    <string name="wishlist_added">Saved to your Vault Wishlist</string>
+    <string name="wishlist_removed">Removed from Vault Wishlist</string>
+    <string name="error_insufficient_points">Earn more Vault Points from trading signals to unlock this reward.</string>
+</resources>
